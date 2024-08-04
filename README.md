@@ -8,7 +8,7 @@ I'm a Software Engineer based in Ottawa Ontario, Canada!
 
 ### 📫 How to reach me:
 Through the contact portal on
-<a href="https://nathanmacdiarmid.com/contact" style="text-decoration:none">
+<a href="https://nathanmacdiarmid.com/contact" style="text-decoration:none;">
   my website!
 </a>
 
