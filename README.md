@@ -3,7 +3,15 @@
 I'm a Software Engineer based in Ottawa Ontario, Canada!
 
 ### 🔭 I’m currently working on
-* updating
+* Updating my website portfolio
+* Building a mobile react app
+
+### 📫 How to reach me:
+Cool 
+<a href="https://nathanmacdiarmid.com/contact">
+beans
+</a>
+Through the contact portal on my website! https://nathanmacdiarmid.com/contact
 
 <a href="https://shorturl.at/t2udx">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&rank_icon=github&hide=contribs&show_icons=true&theme=tokyonight" />
