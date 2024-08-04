@@ -3,11 +3,9 @@
 <a href="https://shorturl.at/t2udx">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&rank_icon=github&hide=contribs&show_icons=true&theme=tokyonight" />
 </a>
-<a href="www.google.com">
+<a href="https://shorturl.at/lF9TG">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanMacDiarmid&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NathanMacDiarmid&layout=compact&langs_count=8&card_width=320&theme=tokyonight)
 
 <!--
 **NathanMacDiarmid/NathanMacDiarmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
