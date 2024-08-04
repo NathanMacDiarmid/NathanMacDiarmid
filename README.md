@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<a href="www.nathanmacdiarmid.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&hide=contribs" />
-</a>
-<a href=www.nathanmacdiarmid.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMacDiarmid&layout=compact&card_width=320" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&rank_icon=github&hide=contribs" />
 </a>
