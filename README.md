@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="www.nathanmacdiarmid.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&theme=tokyonight&rank_icon=github&hide=contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&rank_icon=github&hide=contribs" />
 </a>
 <a href=www.nathanmacdiarmid.com">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMacDiarmid&layout=compact&card_width=320" />
