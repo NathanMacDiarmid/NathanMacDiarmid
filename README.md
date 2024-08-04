@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMacDiarmid&layout=compact&card_width=320" />
 </a>
 
