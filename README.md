@@ -8,14 +8,14 @@ I'm a Software Engineer based in Ottawa Ontario, Canada!
 
 ### 📫 How to reach me:
 Through the contact portal on
-<a href="https://nathanmacdiarmid.com/contact" target="_blank" rel="noopener noreferrer">
+<a href="https://nathanmacdiarmid.com/contact">
   my website!
 </a>
 
-<a href="https://shorturl.at/t2udx" rel="noopener noreferrer">
+<a href="https://shorturl.at/t2udx">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&rank_icon=github&hide=contribs&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://shorturl.at/lF9TG" rel="noopener noreferrer">
+<a href="https://shorturl.at/lF9TG">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanMacDiarmid&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
