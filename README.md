@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-<div>
-  <img height=200 align="center" src=https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs" />
-</div>
-<div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMacDiarmid&layout=compact&card_width=300" />
-</div>
+<img height=200 align="center" src=https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMacDiarmid&layout=compact&card_width=300" />
 
 <!--
 **NathanMacDiarmid/NathanMacDiarmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
