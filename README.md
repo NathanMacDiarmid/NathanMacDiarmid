@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in Ottawa Ontario, Canada!
 
-🔭 I’m currently working on
+### 🔭 I’m currently working on
 
 <a href="https://shorturl.at/t2udx">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&rank_icon=github&hide=contribs&show_icons=true&theme=tokyonight" />
