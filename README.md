@@ -1,6 +1,10 @@
 ## Hi there, I'm Nathan 👋
 
 I'm a Software Engineer based in Ottawa Ontario, Canada!
+Check out more about me on
+<a href="https://nathanmacdiarmid.com">
+  my website!
+</a>
 
 ### 🔭 I’m currently working on
 * Updating my website portfolio
