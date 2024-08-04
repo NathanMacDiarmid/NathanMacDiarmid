@@ -8,9 +8,6 @@ Check out more about me on
   my website!
 </a>
 
-### ⚡ Fun fact:
-
-
 ### 🔭 I’m currently working on
 * Updating my website portfolio
 * Building a mobile react app
