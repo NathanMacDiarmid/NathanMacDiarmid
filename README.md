@@ -3,7 +3,7 @@
 I'm a Software Engineer based in Ottawa Ontario, Canada!
 <br/>
 <br/>
-Currently working as a software developer at IBM.
+Currently working as a software developer at IBM!
 <br/>
 <br/>
 Check out more about me on
