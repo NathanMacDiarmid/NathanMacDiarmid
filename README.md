@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&show_icons=true&theme=tokyonight&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanMacDiarmid&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMacDiarmid&layout=compact)
 
 <!--
