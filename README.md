@@ -11,6 +11,10 @@ Check out more about me on
   my website!
 </a>
 
+<script>
+  console.log('I am here');
+</script>
+
 ### 🔭 I’m currently working on
 * Updating my website portfolio
 * Building a mobile react app
