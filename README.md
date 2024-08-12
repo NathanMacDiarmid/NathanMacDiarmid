@@ -9,8 +9,7 @@ Currently working as a software developer at IBM!
 Creator of
 <a href="https://marketplace.visualstudio.com/items?itemName=JavaTechNomads.code-cleanse">
   Code Cleanse
-</a>
-- a static analysis tool to identify and resolve code smells in Java projects
+</a> a static analysis tool to identify and resolve code smells in Java projects
 <br/>
 <br/>
 Check out more about me on
