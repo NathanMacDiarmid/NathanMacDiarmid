@@ -6,14 +6,20 @@ I'm a Software Engineer based in Ottawa Ontario, Canada!
 Currently working as a software developer at IBM!
 <br/>
 <br/>
+Creator of
+<a href="https://marketplace.visualstudio.com/items?itemName=JavaTechNomads.code-cleanse">
+  Code Cleanse
+</a>
+- a static analysis tool to identify and resolve code smells in Java projects
+<br/>
+<br/>
 Check out more about me on
 <a href="https://nathanmacdiarmid.com">
   my website!
 </a>
 
 ### 🔭 I’m currently working on
-* Updating my website portfolio
-* Building a mobile react app
+* Migrating my website portfolio to React
 
 ### 📫 How to reach me:
 Through the contact portal on
