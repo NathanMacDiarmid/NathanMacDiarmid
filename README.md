@@ -6,7 +6,7 @@ I'm a Software Engineer based in Ottawa Ontario, Canada!
 Currently working as a software developer at IBM!
 <br/>
 <br/>
-Creator of
+Co-creator of
 <a href="https://marketplace.visualstudio.com/items?itemName=JavaTechNomads.code-cleanse">
   Code Cleanse
 </a> a static analysis tool to identify and resolve code smells in Java projects
