@@ -18,7 +18,7 @@ Check out more about me on
 </a>
 
 ### 🔭 I’m currently working on
-* Migrating my website portfolio to React
+* Just finished the upgrade of my website... deciding where to go next!
 
 ### 📫 How to reach me:
 Through the contact portal on
