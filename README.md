@@ -21,10 +21,11 @@ Check out more about me on
 * Just finished the upgrade of my website... deciding where to go next!
 
 ### 📫 How to reach me:
-Through the contact portal on
-<a href="https://nathanmacdiarmid.com/contact">
-  my website!
+Through
+<a href="https://nathanmacdiarmid.com">
+  my website
 </a>
+— you'll find my LinkedIn, GitHub and email links there!
 
 <!--
 **NathanMacDiarmid/NathanMacDiarmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
